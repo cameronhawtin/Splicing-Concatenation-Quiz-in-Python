@@ -1,8 +1,5 @@
 #
 # Cameron Hawtin
-# 101047338
-# 
-# Gaddis, T. (2015). "Starting Out With Python"
 #
 # This program is a hockey/NHL quiz game that uses multi-dimensional lists 
 # to access its' information. In this assignment we explore function
