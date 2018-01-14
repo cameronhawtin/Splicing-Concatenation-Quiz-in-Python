@@ -1,9 +1,6 @@
 #
 # Cameron Hawtin
 # 101047338
-# 
-# Gaddis, T. (2015). "Starting Out With Python"
-# Collier R. (2016). "a4q1.py"
 #
 # This program is a library of four custom functions that use slicing 
 # and concatenate operators in order to extract specific 8-letter words 
