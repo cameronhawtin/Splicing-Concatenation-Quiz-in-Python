@@ -55,5 +55,5 @@ def main():
 	print("Test 6 of 7:", concat_arg_slices_and_return("kjhgopqruvnwxyzicdfghmbljkopqresuvwxtyzac"))
 	print("Test 7 of 7:", concat_arg_slices_and_return("jfedklmoqrptuvwxszychfjklmoinqrtugvwxz"))
 	
-	input();
+	input()
 main()
